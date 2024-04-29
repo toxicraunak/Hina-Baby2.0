@@ -1,5 +1,5 @@
 <h2 align="center">
-    ──「 LB Music 」──
+    ──「 Hina Music 」──
 </h2>
 
 <p align="center">
@@ -21,11 +21,11 @@
 </h3>
 
 <p align="center">
-<a href="https://telegram.me/Learning_bots"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/toxic_tanji"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 <p align="center">
-<a href="https://telegram.me/Learningbots79"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/haxkx"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 - <b> _sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [ᴛᴇᴀᴍ ʏᴜᴋᴋɪ](https://github.com/TeamYukki) ғᴏʀ [ᴀɴᴏɴx ᴍᴜsɪᴄ](https://github.com/AnonymousX1025/AnonXMusic)_ </b>
